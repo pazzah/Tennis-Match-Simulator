@@ -191,7 +191,7 @@ if st.button("🎾 Run Simulation", type="primary", use_container_width=True):
         num_sets=num_sets,
         set_format=set_format,
         tiebreak_format=tiebreak_format,
-        use_advantage=use_advantage
+        ad_scoring=use_advantage
     )
     
     # Run simulations with progress bar
