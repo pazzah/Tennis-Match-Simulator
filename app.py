@@ -23,23 +23,31 @@ st.markdown("### Head-to-Head Match Simulation with Realistic Pressure & Clutch 
 
 # Sidebar for ATP Top 20 Reference
 with st.sidebar:
-    st.header("📊 ATP Top 20 Reference")
+    st.header("📊 Key Matchups Reference")
     st.markdown("""
-    **Key Matchups:**
-    
     **Sinner vs Alcaraz:**
     - Sinner: 64%, 3.5%, +2
     - Alcaraz: 63%, 4.5%, +3
     
-    **Sinner vs Djokovic:**
-    - Sinner: 62%, 3.5%, +2
-    - Djokovic: 63%, 3.0%, +4
+    **Sinner vs Zverev:**
+    - Sinner: 64%, 3.5%, +2  
+    - Zverev: 68%, 4.0%, -1
     
-    **Alcaraz vs Djokovic:**
-    - Alcaraz: 63%, 4.5%, +3
-    - Djokovic: 63%, 3.0%, +4
+    **Zverev vs Alcaraz:**
+    - Zverev: 67%, 3.5%, 0
+    - Alcaraz: 64%, 4.5%, +3
     
-    [View Full ATP Top 20 Parameters](https://github.com)
+    **Sabalenka vs Swiatek:**
+    - Sabalenka: 62%, 4.5%, +1
+    - Swiatek: 63%, 3.5%, +2
+    
+    **Sabalenka vs Gauff:**
+    - Sabalenka: 63%, 4.0%, +1
+    - Gauff: 61%, 4.5%, +2
+    
+    **Gauff vs Swiatek:**
+    - Gauff: 60%, 4.5%, 0
+    - Swiatek: 64%, 3.5%, +3
     """)
     
     st.markdown("---")
