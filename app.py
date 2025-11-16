@@ -213,8 +213,8 @@ if st.button("🎾 Run Simulation", type="primary", use_container_width=True):
     st.header("📊 Results Summary")
     
     # Win percentages
-    p1_wins = (df['winner'] == player1_name).sum()
-    p2_wins = (df['winner'] == player2_name).sum()
+    p1_wins = (df['Winner'] == 1).sum()
+    p2_wins = (df['Winner'] == 2).sum()
     p1_pct = (p1_wins / num_sims) * 100
     p2_pct = (p2_wins / num_sims) * 100
     
@@ -231,17 +231,17 @@ if st.button("🎾 Run Simulation", type="primary", use_container_width=True):
     stat_col1, stat_col2, stat_col3, stat_col4 = st.columns(4)
     
     with stat_col1:
-        st.metric("Avg Games", f"{df['total_games'].mean():.1f}")
+        st.metric("Avg Games", f"{df['Total_Games'].mean():.1f}")
     with stat_col2:
-        st.metric("Avg Points", f"{df['total_points'].mean():.0f}")
+        st.metric("Avg Points", f"{df['Total_Points'].mean():.0f}")
     with stat_col3:
-        avg_bp_conv = (df['p1_bp_converted'].sum() + df['p2_bp_converted'].sum()) / \
-                      (df['p1_bp_opportunities'].sum() + df['p2_bp_opportunities'].sum()) * 100
+        avg_bp_conv = (df['P1_Break_Points_Converted'].sum() + df['P2_Break_Points_Converted'].sum()) / \
+                      (df['P1_Break_Points_Opportunities'].sum() + df['P2_Break_Points_Opportunities'].sum()) * 100
         st.metric("Avg BP Conversion", f"{avg_bp_conv:.1f}%")
     with stat_col4:
-        tiebreak_pct = (df['set1_score'].str.contains('7-6|6-7', regex=True).sum() + \
-                       df['set2_score'].str.contains('7-6|6-7', regex=True).fillna(False).sum() + \
-                       df['set3_score'].str.contains('7-6|6-7', regex=True).fillna(False).sum()) / \
+        tiebreak_pct = (df['Set1_Score'].str.contains('7-6|6-7', regex=True, na=False).sum() + \
+                       df['Set2_Score'].str.contains('7-6|6-7', regex=True, na=False).sum() + \
+                       df['Set3_Score'].str.contains('7-6|6-7', regex=True, na=False).sum()) / \
                        (num_sims * num_sets) * 100
         st.metric("Tiebreak Frequency", f"{tiebreak_pct:.1f}%")
     
@@ -250,28 +250,28 @@ if st.button("🎾 Run Simulation", type="primary", use_container_width=True):
     p1_stats_col1, p1_stats_col2, p1_stats_col3, p1_stats_col4 = st.columns(4)
     
     with p1_stats_col1:
-        st.metric("Avg Serve Win %", f"{df['p1_serve_pct'].mean():.1f}%")
+        st.metric("Avg Serve Win %", f"{df['P1_Serve_Win_Pct'].mean():.1f}%")
     with p1_stats_col2:
-        st.metric("Avg Games Won", f"{df['p1_games'].mean():.1f}")
+        st.metric("Avg Games Won", f"{df['P1_Games_Won'].mean():.1f}")
     with p1_stats_col3:
-        p1_bp_save = df['p1_bp_saved'].sum() / df['p1_bp_faced'].sum() * 100 if df['p1_bp_faced'].sum() > 0 else 0
+        p1_bp_save = df['P1_Break_Points_Saved'].sum() / df['P1_Break_Points_Faced'].sum() * 100 if df['P1_Break_Points_Faced'].sum() > 0 else 0
         st.metric("BP Save %", f"{p1_bp_save:.1f}%")
     with p1_stats_col4:
-        p1_bp_conv = df['p1_bp_converted'].sum() / df['p1_bp_opportunities'].sum() * 100 if df['p1_bp_opportunities'].sum() > 0 else 0
+        p1_bp_conv = df['P1_Break_Points_Converted'].sum() / df['P1_Break_Points_Opportunities'].sum() * 100 if df['P1_Break_Points_Opportunities'].sum() > 0 else 0
         st.metric("BP Conversion %", f"{p1_bp_conv:.1f}%")
     
     st.subheader(f"📈 {player2_name} Statistics")
     p2_stats_col1, p2_stats_col2, p2_stats_col3, p2_stats_col4 = st.columns(4)
     
     with p2_stats_col1:
-        st.metric("Avg Serve Win %", f"{df['p2_serve_pct'].mean():.1f}%")
+        st.metric("Avg Serve Win %", f"{df['P2_Serve_Win_Pct'].mean():.1f}%")
     with p2_stats_col2:
-        st.metric("Avg Games Won", f"{df['p2_games'].mean():.1f}")
+        st.metric("Avg Games Won", f"{df['P2_Games_Won'].mean():.1f}")
     with p2_stats_col3:
-        p2_bp_save = df['p2_bp_saved'].sum() / df['p2_bp_faced'].sum() * 100 if df['p2_bp_faced'].sum() > 0 else 0
+        p2_bp_save = df['P2_Break_Points_Saved'].sum() / df['P2_Break_Points_Faced'].sum() * 100 if df['P2_Break_Points_Faced'].sum() > 0 else 0
         st.metric("BP Save %", f"{p2_bp_save:.1f}%")
     with p2_stats_col4:
-        p2_bp_conv = df['p2_bp_converted'].sum() / df['p2_bp_opportunities'].sum() * 100 if df['p2_bp_opportunities'].sum() > 0 else 0
+        p2_bp_conv = df['P2_Break_Points_Converted'].sum() / df['P2_Break_Points_Opportunities'].sum() * 100 if df['P2_Break_Points_Opportunities'].sum() > 0 else 0
         st.metric("BP Conversion %", f"{p2_bp_conv:.1f}%")
     
     # Download buttons
@@ -318,8 +318,8 @@ if st.button("🎾 Run Simulation", type="primary", use_container_width=True):
         summary_lines.append("=" * 80)
         summary_lines.append(f"\n{player1_name} wins: {p1_wins}/{num_sims} ({p1_pct:.1f}%)")
         summary_lines.append(f"{player2_name} wins: {p2_wins}/{num_sims} ({p2_pct:.1f}%)")
-        summary_lines.append(f"\nAverage games per match: {df['total_games'].mean():.1f}")
-        summary_lines.append(f"Average points per match: {df['total_points'].mean():.0f}")
+        summary_lines.append(f"\nAverage games per match: {df['Total_Games'].mean():.1f}")
+        summary_lines.append(f"Average points per match: {df['Total_Points'].mean():.0f}")
         summary_lines.append(f"Tiebreak frequency: {tiebreak_pct:.1f}%")
         summary_lines.append(f"Average BP conversion: {avg_bp_conv:.1f}%")
         
