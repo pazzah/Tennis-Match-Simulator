@@ -1,0 +1,249 @@
+================================================================================
+ATP TOP 10 HEAD-TO-HEAD MATCHUP PARAMETERS (2022-2025)
+Complete H2H Matrix - All 45 Matchups
+================================================================================
+
+CURRENT ATP TOP 10 (Late 2024/Early 2025):
+1. Jannik Sinner
+2. Alexander Zverev
+3. Carlos Alcaraz
+4. Taylor Fritz
+5. Daniil Medvedev
+6. Casper Ruud
+7. Novak Djokovic
+8. Alex de Minaur
+9. Andrey Rublev
+10. Grigor Dimitrov
+
+Format: Player A vs Player B
+  A: Serve%, Var%, Clutch
+  B: Serve%, Var%, Clutch
+
+================================================================================
+
+1. SINNER vs ZVEREV
+Sinner: 64, 3.5, +2
+Zverev: 67, 4.0, -1
+(Sinner has recent edge, Zverev big serve but clutch issues)
+
+2. SINNER vs ALCARAZ
+Sinner: 64, 3.5, +2
+Alcaraz: 63, 4.5, +3
+(Very even, thrilling matches, Alcaraz more clutch)
+
+3. SINNER vs FRITZ
+Sinner: 64, 3.5, +2
+Fritz: 69, 3.5, -1
+(Sinner dominates despite Fritz's big serve)
+
+4. SINNER vs MEDVEDEV
+Sinner: 63, 3.5, +2
+Medvedev: 64, 3.0, +1
+(Competitive, tactical battles)
+
+5. SINNER vs RUUD
+Sinner: 65, 3.5, +2
+Ruud: 62, 3.5, 0
+(Sinner clear advantage)
+
+6. SINNER vs DJOKOVIC
+Sinner: 62, 3.5, +2
+Djokovic: 63, 3.0, +4
+(Djokovic elite clutch, now more even)
+
+7. SINNER vs DE MINAUR
+Sinner: 65, 3.5, +2
+De Minaur: 60, 4.0, 0
+(Sinner dominates)
+
+8. SINNER vs RUBLEV
+Sinner: 64, 3.5, +2
+Rublev: 62, 4.5, -1
+(Sinner steady advantage)
+
+9. SINNER vs DIMITROV
+Sinner: 64, 3.5, +2
+Dimitrov: 63, 4.0, +1
+(Sinner favored)
+
+10. ZVEREV vs ALCARAZ
+Zverev: 68, 4.0, -1
+Alcaraz: 64, 4.5, +3
+(Alcaraz leads recent H2H despite serve disadvantage)
+
+11. ZVEREV vs FRITZ
+Zverev: 68, 3.5, 0
+Fritz: 68, 3.5, -1
+(Very even, both big servers)
+
+12. ZVEREV vs MEDVEDEV
+Zverev: 68, 3.5, 0
+Medvedev: 65, 3.0, +1
+(Competitive matches)
+
+13. ZVEREV vs RUUD
+Zverev: 69, 3.5, +1
+Ruud: 61, 3.5, -1
+(Zverev power advantage)
+
+14. ZVEREV vs DJOKOVIC
+Zverev: 67, 4.0, -1
+Djokovic: 64, 3.0, +4
+(Djokovic mental edge)
+
+15. ZVEREV vs DE MINAUR
+Zverev: 69, 3.5, 0
+De Minaur: 59, 4.0, 0
+(Zverev serve dominance)
+
+16. ZVEREV vs RUBLEV
+Zverev: 69, 3.5, 0
+Rublev: 62, 4.5, -1
+(Zverev steadier)
+
+17. ZVEREV vs DIMITROV
+Zverev: 68, 3.5, 0
+Dimitrov: 63, 4.0, 0
+(Zverev serve advantage)
+
+18. ALCARAZ vs FRITZ
+Alcaraz: 64, 4.5, +3
+Fritz: 68, 3.5, -1
+(Alcaraz clutch overcomes serve gap)
+
+19. ALCARAZ vs MEDVEDEV
+Alcaraz: 63, 4.5, +3
+Medvedev: 65, 3.0, +1
+(Power vs defense)
+
+20. ALCARAZ vs RUUD
+Alcaraz: 65, 4.5, +3
+Ruud: 61, 3.5, -1
+(Alcaraz dominates)
+
+21. ALCARAZ vs DJOKOVIC
+Alcaraz: 63, 4.5, +3
+Djokovic: 63, 3.0, +4
+(Epic battles, both elite clutch)
+
+22. ALCARAZ vs DE MINAUR
+Alcaraz: 65, 4.5, +3
+De Minaur: 60, 4.0, 0
+(Alcaraz clear edge)
+
+23. ALCARAZ vs RUBLEV
+Alcaraz: 64, 4.5, +3
+Rublev: 62, 4.5, 0
+(Alcaraz more complete)
+
+24. ALCARAZ vs DIMITROV
+Alcaraz: 64, 4.5, +3
+Dimitrov: 63, 4.0, +1
+(Alcaraz favored)
+
+25. FRITZ vs MEDVEDEV
+Fritz: 69, 3.5, 0
+Medvedev: 64, 3.0, +1
+(Fritz serve, Medvedev steadier)
+
+26. FRITZ vs RUUD
+Fritz: 70, 3.5, 0
+Ruud: 61, 3.5, -1
+(Fritz power advantage)
+
+27. FRITZ vs DJOKOVIC
+Fritz: 68, 3.5, -2
+Djokovic: 64, 3.0, +4
+(Djokovic mental dominance)
+
+28. FRITZ vs DE MINAUR
+Fritz: 69, 3.5, 0
+De Minaur: 60, 4.0, 0
+(Fritz serve edge)
+
+29. FRITZ vs RUBLEV
+Fritz: 69, 3.5, 0
+Rublev: 62, 4.5, 0
+(Fritz more consistent)
+
+30. FRITZ vs DIMITROV
+Fritz: 69, 3.5, 0
+Dimitrov: 63, 4.0, +1
+(Fritz power vs Dimitrov finesse)
+
+31. MEDVEDEV vs RUUD
+Medvedev: 65, 3.0, +1
+Ruud: 61, 3.5, 0
+(Medvedev consistent wins)
+
+32. MEDVEDEV vs DJOKOVIC
+Medvedev: 64, 3.0, 0
+Djokovic: 64, 3.0, +4
+(Djokovic mental edge)
+
+33. MEDVEDEV vs DE MINAUR
+Medvedev: 65, 3.0, +1
+De Minaur: 60, 4.0, 0
+(Medvedev steadier)
+
+34. MEDVEDEV vs RUBLEV
+Medvedev: 65, 3.0, +1
+Rublev: 62, 4.5, -1
+(Medvedev tactical advantage)
+
+35. MEDVEDEV vs DIMITROV
+Medvedev: 65, 3.0, +1
+Dimitrov: 63, 4.0, +1
+(Competitive)
+
+36. RUUD vs DJOKOVIC
+Ruud: 61, 3.5, -1
+Djokovic: 64, 3.0, +4
+(Djokovic dominates)
+
+37. RUUD vs DE MINAUR
+Ruud: 62, 3.5, 0
+De Minaur: 60, 4.0, 0
+(Even matches)
+
+38. RUUD vs RUBLEV
+Ruud: 62, 3.5, 0
+Rublev: 62, 4.5, 0
+(Very even)
+
+39. RUUD vs DIMITROV
+Ruud: 62, 3.5, 0
+Dimitrov: 63, 4.0, +1
+(Dimitrov slight edge)
+
+40. DJOKOVIC vs DE MINAUR
+Djokovic: 64, 3.0, +3
+De Minaur: 59, 4.0, -1
+(Djokovic dominates)
+
+41. DJOKOVIC vs RUBLEV
+Djokovic: 64, 3.0, +4
+Rublev: 62, 4.5, -1
+(Djokovic mental edge)
+
+42. DJOKOVIC vs DIMITROV
+Djokovic: 64, 3.0, +4
+Dimitrov: 63, 4.0, 0
+(Djokovic leads H2H)
+
+43. DE MINAUR vs RUBLEV
+De Minaur: 60, 4.0, 0
+Rublev: 62, 4.5, 0
+(Competitive)
+
+44. DE MINAUR vs DIMITROV
+De Minaur: 60, 4.0, 0
+Dimitrov: 63, 4.0, +1
+(Dimitrov experience edge)
+
+45. RUBLEV vs DIMITROV
+Rublev: 62, 4.5, 0
+Dimitrov: 63, 4.0, +1
+(Even, Dimitrov clutch edge)
+
+================================================================================

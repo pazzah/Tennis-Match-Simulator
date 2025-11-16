@@ -1,0 +1,249 @@
+================================================================================
+WTA TOP 10 HEAD-TO-HEAD MATCHUP PARAMETERS (2022-2025)
+Complete H2H Matrix - All 45 Matchups
+================================================================================
+
+CURRENT WTA TOP 10 (Late 2024/Early 2025):
+1. Aryna Sabalenka
+2. Iga Swiatek
+3. Coco Gauff
+4. Jasmine Paolini
+5. Qinwen Zheng
+6. Elena Rybakina
+7. Jessica Pegula
+8. Emma Navarro
+9. Daria Kasatkina
+10. Barbora Krejcikova
+
+Format: Player A vs Player B
+  A: Serve%, Var%, Clutch
+  B: Serve%, Var%, Clutch
+
+================================================================================
+
+1. SABALENKA vs SWIATEK
+Sabalenka: 64, 4.5, +2
+Swiatek: 62, 3.5, +3
+(Epic rivalry, Swiatek more clutch)
+
+2. SABALENKA vs GAUFF
+Sabalenka: 65, 4.5, +2
+Gauff: 60, 4.0, +2
+(Sabalenka power advantage)
+
+3. SABALENKA vs PAOLINI
+Sabalenka: 66, 4.5, +2
+Paolini: 59, 4.0, +1
+(Sabalenka dominates)
+
+4. SABALENKA vs ZHENG
+Sabalenka: 65, 4.5, +2
+Zheng: 63, 4.0, +1
+(Competitive power battles)
+
+5. SABALENKA vs RYBAKINA
+Sabalenka: 64, 4.5, +2
+Rybakina: 65, 4.0, +1
+(Very even, big hitters)
+
+6. SABALENKA vs PEGULA
+Sabalenka: 65, 4.5, +2
+Pegula: 61, 3.5, 0
+(Sabalenka power edge)
+
+7. SABALENKA vs NAVARRO
+Sabalenka: 65, 4.5, +2
+Navarro: 60, 4.0, +1
+(Sabalenka favored)
+
+8. SABALENKA vs KASATKINA
+Sabalenka: 66, 4.5, +2
+Kasatkina: 58, 4.5, 0
+(Sabalenka power dominance)
+
+9. SABALENKA vs KREJCIKOVA
+Sabalenka: 65, 4.5, +2
+Krejcikova: 60, 4.0, +2
+(Sabalenka power vs variety)
+
+10. SWIATEK vs GAUFF
+Swiatek: 62, 3.5, +3
+Gauff: 60, 4.0, +1
+(Swiatek dominates H2H)
+
+11. SWIATEK vs PAOLINI
+Swiatek: 63, 3.5, +3
+Paolini: 59, 4.0, +1
+(Swiatek clear edge)
+
+12. SWIATEK vs ZHENG
+Swiatek: 62, 3.5, +3
+Zheng: 63, 4.0, +2
+(Competitive)
+
+13. SWIATEK vs RYBAKINA
+Swiatek: 61, 3.5, +3
+Rybakina: 65, 4.0, +1
+(Rybakina serve vs Swiatek consistency)
+
+14. SWIATEK vs PEGULA
+Swiatek: 63, 3.5, +3
+Pegula: 61, 3.5, 0
+(Swiatek leads H2H)
+
+15. SWIATEK vs NAVARRO
+Swiatek: 63, 3.5, +3
+Navarro: 60, 4.0, +1
+(Swiatek favored)
+
+16. SWIATEK vs KASATKINA
+Swiatek: 63, 3.5, +3
+Kasatkina: 58, 4.5, 0
+(Swiatek dominates)
+
+17. SWIATEK vs KREJCIKOVA
+Swiatek: 62, 3.5, +3
+Krejcikova: 60, 4.0, +2
+(Swiatek edge)
+
+18. GAUFF vs PAOLINI
+Gauff: 61, 4.0, +2
+Paolini: 59, 4.0, +1
+(Gauff youth advantage)
+
+19. GAUFF vs ZHENG
+Gauff: 60, 4.0, +2
+Zheng: 63, 4.0, +1
+(Competitive, Zheng power)
+
+20. GAUFF vs RYBAKINA
+Gauff: 59, 4.0, +2
+Rybakina: 66, 4.0, +1
+(Rybakina serve edge)
+
+21. GAUFF vs PEGULA
+Gauff: 61, 4.0, +2
+Pegula: 61, 3.5, 0
+(American rivalry, Gauff clutch)
+
+22. GAUFF vs NAVARRO
+Gauff: 61, 4.0, +2
+Navarro: 60, 4.0, +1
+(Very even)
+
+23. GAUFF vs KASATKINA
+Gauff: 61, 4.0, +2
+Kasatkina: 58, 4.5, 0
+(Gauff power advantage)
+
+24. GAUFF vs KREJCIKOVA
+Gauff: 60, 4.0, +2
+Krejcikova: 60, 4.0, +2
+(Even matches)
+
+25. PAOLINI vs ZHENG
+Paolini: 59, 4.0, +1
+Zheng: 63, 4.0, +1
+(Zheng power edge)
+
+26. PAOLINI vs RYBAKINA
+Paolini: 58, 4.0, +1
+Rybakina: 66, 4.0, +1
+(Rybakina serve dominance)
+
+27. PAOLINI vs PEGULA
+Paolini: 59, 4.0, +1
+Pegula: 61, 3.5, 0
+(Competitive)
+
+28. PAOLINI vs NAVARRO
+Paolini: 59, 4.0, +1
+Navarro: 60, 4.0, +1
+(Very even)
+
+29. PAOLINI vs KASATKINA
+Paolini: 59, 4.0, +1
+Kasatkina: 58, 4.5, 0
+(Paolini slight edge)
+
+30. PAOLINI vs KREJCIKOVA
+Paolini: 59, 4.0, +1
+Krejcikova: 60, 4.0, +2
+(Krejcikova experience)
+
+31. ZHENG vs RYBAKINA
+Zheng: 63, 4.0, +1
+Rybakina: 65, 4.0, +1
+(Power vs power)
+
+32. ZHENG vs PEGULA
+Zheng: 63, 4.0, +1
+Pegula: 61, 3.5, 0
+(Zheng power advantage)
+
+33. ZHENG vs NAVARRO
+Zheng: 63, 4.0, +1
+Navarro: 60, 4.0, +1
+(Zheng favored)
+
+34. ZHENG vs KASATKINA
+Zheng: 64, 4.0, +1
+Kasatkina: 58, 4.5, 0
+(Zheng power dominance)
+
+35. ZHENG vs KREJCIKOVA
+Zheng: 63, 4.0, +1
+Krejcikova: 60, 4.0, +2
+(Competitive)
+
+36. RYBAKINA vs PEGULA
+Rybakina: 66, 4.0, +1
+Pegula: 60, 3.5, 0
+(Rybakina serve edge)
+
+37. RYBAKINA vs NAVARRO
+Rybakina: 65, 4.0, +1
+Navarro: 59, 4.0, +1
+(Rybakina power)
+
+38. RYBAKINA vs KASATKINA
+Rybakina: 66, 4.0, +1
+Kasatkina: 57, 4.5, 0
+(Rybakina dominates)
+
+39. RYBAKINA vs KREJCIKOVA
+Rybakina: 65, 4.0, +1
+Krejcikova: 60, 4.0, +2
+(Rybakina power vs variety)
+
+40. PEGULA vs NAVARRO
+Pegula: 61, 3.5, 0
+Navarro: 60, 4.0, +1
+(American matchup, even)
+
+41. PEGULA vs KASATKINA
+Pegula: 62, 3.5, 0
+Kasatkina: 58, 4.5, 0
+(Pegula steadier)
+
+42. PEGULA vs KREJCIKOVA
+Pegula: 61, 3.5, 0
+Krejcikova: 60, 4.0, +2
+(Krejcikova clutch edge)
+
+43. NAVARRO vs KASATKINA
+Navarro: 60, 4.0, +1
+Kasatkina: 58, 4.5, 0
+(Navarro power edge)
+
+44. NAVARRO vs KREJCIKOVA
+Navarro: 60, 4.0, +1
+Krejcikova: 60, 4.0, +2
+(Krejcikova experience)
+
+45. KASATKINA vs KREJCIKOVA
+Kasatkina: 58, 4.5, 0
+Krejcikova: 60, 4.0, +2
+(Krejcikova variety advantage)
+
+================================================================================
